@@ -1,9 +1,8 @@
 {
-  "name": "kpigirlsIonic",
+  "name": "facemash",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
-  "private": true,
+  "author": "Nikolay_R",
+  "homepage": "http://nikolay-r.com/kpi-girls/",
   "scripts": {
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
