@@ -1,0 +1,8 @@
+{
+  "name": "kpigirlsIonic",
+  "app_id": "49e77d46",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
