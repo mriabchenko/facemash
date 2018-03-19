@@ -2,3 +2,4 @@
 .sourcemaps
 node_modules/
 plugins/
+www/build

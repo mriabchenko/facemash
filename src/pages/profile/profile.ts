@@ -2,10 +2,10 @@ import {Component, OnInit} from '@angular/core';
 import { NavController } from 'ionic-angular';
 
 @Component({
-  selector: 'page-profile',
+  selector: 'app-page-profile',
   templateUrl: 'profile.html'
 })
-export class ProfilePage implements OnInit {
+export class ProfilePageComponent implements OnInit {
 
   public constructor(public navCtrl: NavController) {
 
